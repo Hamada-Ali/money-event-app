@@ -128,6 +128,7 @@ img {
 .nav.sticky {
   position: fixed;
   background-color: rgba(255, 255, 255, 0.95);
+  
 }
 
 .nav__logo {
@@ -458,8 +459,8 @@ h4 {
 }
 
 .dots__dot--active {
-  /* background-color: #fff; */
-  background-color: #888;
+  background-color: #fff;
+  /* background-color: #888; */
   opacity: 1;
 }
 
